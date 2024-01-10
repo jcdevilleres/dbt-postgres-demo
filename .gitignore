@@ -2,6 +2,4 @@
 target/
 dbt_packages/
 logs/
-# scripts/
-# dataset/
 z_archive/

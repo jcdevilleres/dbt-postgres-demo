@@ -1,7 +1,5 @@
 # This is the Pythons script required to push the loans dataset to the PostgreSQL database
-# We are using the psycopg2 adapter for Python <> PostgreSQL
-# I used the default values for host, user, password, and connection strings
-# Pleasure ensure that yours are updated correctly
+# I used the default values for host, user, password, and connection strings. Pleasure ensure that yours are updated correctly
 
 import psycopg2
 import csv
