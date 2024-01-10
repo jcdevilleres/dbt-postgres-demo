@@ -223,7 +223,7 @@ Project Link: [https://github.com/jcdevilleres/dbt-postgres-demo](https://github
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-* [@mpdevilleres](@mpdevilleres)
+* 
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
