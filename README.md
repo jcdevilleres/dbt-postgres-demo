@@ -201,6 +201,13 @@ Here is the resulting overview dashboard using Lightdash !
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<!-- ROADMAP -->
+## Roadmap
+
+- [ ] Update this repository to include Lightdash component
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 <!-- CONTACT -->
 ## Contact
